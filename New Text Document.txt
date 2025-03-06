@@ -1,0 +1,78 @@
+SDLC- Software Development Life Cycle
+
+SDLC is a systematic approach to develop software/Application.
+
+There are different phases in SDLC
+-----------------------------------
+1)Requirement Gathering---During this phase, Business requirements are gathered from customer and documented. The output of this phase is Business requirements specification (BRS) document.
+2)Analysis/Planning---During this phase, Business requirements are analyzed and System Requirements are documented.Project plan is created to come up with project milestones and release date. The output of this phase is System Requirements Specification (SRS) document and Project Plan.
+3)Design----During this phase, based on SRS document, High Level Design (HLD) and Low Level Design (LLD) is done for the entire system and for individual components in the system. The output of this phase is Design documents.
+4)Development/Coding--During this phase, based on the Design documents, programs are written in the selected programming language. The final output of this phase is code documents and executable software.
+5)Testing--During this phase, Test cases are created and executed by the testers to ensure that the system is developed as per the System requirements 
+6)Deploy/Maintenance---During this phase, tested software is released to production and the software is deployed in customer’s environment by release team. Any defects/improvements identified thereafter by customer are addressed by maintenance team.
+
+Waterfall Model
+-----------------
+=>The development activities are executed in a sequential manner. 
+=>One phase starts only after the completion of its previous phase.
+ 
+There are different phases
+---------------------------
+1)Requirement Gathering/Analysis
+2)Design/Architect/Planning
+3)Implement/Coding
+4)Test
+5)Deploy/Release/Delivery
+6)Maintenance
+
+Drawbacks of waterfall Model
+------------------------------
+1)It is not suitable for complex projects where changes are in high frequency
+2)Time Consuming
+3)It is difficult to implement any changes in the requirements.
+4) No working software is produced until the last stage of the life cycle.
+
+In order to address these issues or limitations we have next model called Agile Methodology
+ 
+Agile Methodology
+-------------------
+=>Agile is iteration and incremental model
+=>Iteration means repeating the same kind of process again and again
+=>Incremental means adding new software features or new modules
+=>In Agile methodology each project is broken up into several iterations
+=>All iterations should be of the same time duration between 2 to 8 weeks
+=>At the end of each iteration a working product should be delivered
+
+Sprint (Iteration):
+--------------------
+=>Period of time to complete the user stories Sprint is decided by the Product owner and team.
+=>usually 2-4 weeks of time.
+=>Product owner will not decide how many stories should be developed in one particular sprint.
+
+Scrum Terminology:
+--------------------
+Story: A story is representing the Functionality.
+=>User Story: A feature or module in a software.
+EPIC:
+=>Collection of user stories.
+=>EPIC can be derived in multiple stories.
+=>EPIC is a large requirement.
+=>User story is a small requirement
+=>User stories will be derived from Epic's.
+These things will be Prepared by product owner.
+
+Product Backlog:
+-------------------
+=>Contains list of user stories.
+=>Prepared by product owner.
+=>Product owner will prepare the product backlog by taking all the requirement from the
+customer and convert them into stories and epic's they will put them of a list as an Excel
+document or some ware and then we can call is as Product Backlog.
+
+
+
+
+
+
+
+
