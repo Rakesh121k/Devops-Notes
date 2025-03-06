@@ -1,0 +1,96 @@
+Waterfall vs Agile Model
+--------------------------
+            Waterfall Model
+
+Analysis-->Plan-->Design-->Build-->Test-->Deploy
+
+            Agile Model
+
+Analysis-->Plan-->Design-->Build-->Test-->Deploy
+
+=>Here stages or process are same, But in Agile it is segregated or divided into iterations
+
+Limitations of Agile
+---------------------
+Developer Team                                              Operations Team
+--------------                                              ---------------
+=>Code works fine in my laptop                              =>There is some problem with the code it does not work in production
+
+wants change                                                  wants stability
+=>By this there is collaboration or communication gap b/w two teams
+So Solution is Devops
+combination of Development and Operations
+
+Development without Devops culture
+------------------------------------
+=>Release and deploy mismatch
+=>Unpredictable issues
+=>Blame game
+=>Lack of Monitoring
+
+Development with Devops culture
+------------------------------------
+=>Streamlined Deliveries
+=>Teamwork in collaboration
+=>Continuous monitoring and Feedback
+
+What needs to be done at development
+--------------------------------------
+=>Use system with little or no waiting time
+=>Use system with updated code
+
+What needs to be done at operations
+--------------------------------------
+=>System should up and running most of the time
+=>System required for easy administration
+=>Effective monitoring and feedbacks system should be established
+
+What exactly is Devops in Reallife
+-----------------------------------
+Plan-->Code-->Build-->Test-->Release-->Deploy-->Operate-->Monitor
+
+What is Devops
+---------------
+Devops is a practice that allows a single team to manage the entire application development life cycle that is development,testing,deployment and monitoring
+
+Plan- Jira tool
+Code- Git,Eclipse
+Build- Jenkins,Maven
+Test- Selenium, Junit
+Releases- Bamboo
+Deploy - AWS,Ansible
+Operate- Nagios
+Monitor - Splunk
+
+What Devops does do
+---------------------
+=>Integrates developers and operations team
+=>Improves collaboration and productivity
+=>Automating infrastructure
+=>Automating workflows
+=>Continuous measuring application performance
+
+Skills
+--------
+Tools:
+Version Control - Git
+Continuous Integration - Jenkins
+Virtualization/Containerization - Docker/Kubernetes
+Configuration Management - Ansible/ Puppet
+Monitoring - Nagios
+
+Networking:
+=>General networking skills - Establishing connectipon between the containers/Port Forwarding/container orchestration
+
+Other skills:
+=>People skills
+=>Process skills
+=>Customer skill and Empathy
+=>Cloud Awarness
+
+
+
+
+
+
+
