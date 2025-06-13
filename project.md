@@ -68,11 +68,11 @@ sudo systemctl enable httpd
 
 # Set up OpenCart
 cd /var/www/html
-wget https://github.com/opencart/opencart/releases/download/4.1.0.3/opencart-4.1.0.3.zip
-unzip opencart-4.1.0.3.zip
+sudo wget https://github.com/opencart/opencart/releases/download/4.1.0.3/opencart-4.1.0.3.zip
+sudo unzip opencart-4.1.0.3.zip
 cp -r upload/* .
 rm -rf upload opencart-4.1.0.3.zip
 
 # Set correct permissions
-chown -R apache:apache /var/www/html
-chmod -R 755 /var/www/html
+sudo chown -R apache:apache /var/www/html
+sudo chmod -R 755 /var/www/html
