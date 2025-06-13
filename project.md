@@ -20,6 +20,8 @@ Log in to your AWS Management Console and navigate to the **EC2 Dashboard**.
 
 <img width="555" alt="Image" src="https://github.com/user-attachments/assets/89241ba2-3992-49f3-adff-25c0f19ef091" />
 
+<img width="339" alt="Image" src="https://github.com/user-attachments/assets/4cfbaec0-dbbb-45ad-8869-d4a6da4b586f" />
+
 
 ### Add Storage
 
