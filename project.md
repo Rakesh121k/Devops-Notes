@@ -16,6 +16,9 @@ Log in to your AWS Management Console and navigate to the **EC2 Dashboard**.
 - **Choose an Instance Type**: `t2.medium` is sufficient and eligible for the Free Tier.
 - **Configure Instance**: Accept defaults or adjust as needed.
 
+<img width="613" alt="Image" src="https://github.com/user-attachments/assets/78ab6669-ba27-4923-a7f9-55aafbe04e77" />
+
+
 ### Add Storage
 
 - Set the root volume size to at least **8 GB**.
